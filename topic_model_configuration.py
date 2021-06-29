@@ -54,7 +54,7 @@ NUMBER_OF_RUNS = 100
 Mininimum overlap of retrieved terms to considered the retrieved topic as
 the same topic of a another one
 """
-OVERLAP_CUT_OFF = 0.8
+OVERLAP_CUT_OFF = 0.7
 
 """
 When counting overlap, outliers are removed. This sets percentage for what is to be retained
