@@ -1,0 +1,67 @@
+sveriges_kommuner_och_landsting SKL Sveriges_Kommuner_och_Landsting
+kommunal kommunala
+kommun kommunen kommuner kommunerna 
+landsting landstinget
+skolan skolans
+mänskliga_rättigheter mänskliga_rättigheterna
+civila_samhället civila_samhällets civilsamhället civilsamhällets civilsamhälle
+centralbanken centralbankens ecb europeiska_centralbanken ECB Europeiska_centralbanken
+kapitalism kapitalismen kapitalistiska 
+kommunism kommunismen kommunismens
+nazism nazismen nazismens
+socialism socialismen socialismens
+bank banken bankens
+förening föreningen föreningens
+elev elever elevens elevernas elevers eleven eleverna
+tvungen tvungna
+lärarna läraren
+rektor rektorerna
+studenter studenterna
+flickor flickors 
+pojkar pojkars
+fördel fördelarna fördelen
+nackdelarna nackdelen nackdel
+oförenlig oförenliga oförenligt
+höjas höjning höjs ökas ökning
+minskas reduceras sänkas minskning sänkning sänks
+kvinnliga kvinnligt
+manligt manliga
+kvinnor kvinnorna kvinnornas kvinnors 
+män männen männens mäns
+svårare svårt
+tilltagande växande ökande
+sjunker sjönk
+stigit ökat
+negativ negativa negativt
+positiva positiv positivt
+riksrevisionen rrv riksrevisionens
+statskontoret statskontorets
+organisation organisationen organisationer
+nivå nivån
+fatta fattar fattas fattat fattats fattade
+beslut besluten
+medborgare allmänhetens medborgarnas medborgarna
+regeringen regeringens
+riksdagen riksdagens
+politiska_partier politiska_partierna parti partier partierna partiernas partiet partiets
+politisk politiskt politiska
+verksamhet verksamheten
+villkor villkoret
+medlemskap medlemskapet
+begränsning inskränkning begränsningar inskränkningar
+kommunal_självstyrelse kommunala_självstyrelsen
+samhälle samhället samhällets
+möjlighet möjligheter
+förtroendevalda förtroendevaldas
+ungdomar unga ungas ungdomars ungdomarna ungdomarnas
+barn barnens barnens barns
+barn_och_unga barn_och_ungdomar
+värderingar värdegrund
+centern centerpartiet
+institutioner institutionerna
+myndighet myndigheter myndigheterna
+trossamfund trossamfundet kyrka kyrkan kyrkans
+väljare väljarna
+politik politiken
+lokal regional lokala regionala
+europeisk europeiska
