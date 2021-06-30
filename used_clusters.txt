@@ -1,62 +1,85 @@
+
 aktiebolag bolag företag
+aktier andelar
 aktörer aktörerna intressenter
 aktörernas aktörers
+allvarligaste grövsta
 ambition målsättning
 ambitionen målsättningen
-amerikanska brittiska danska finska franska nederländska norska tyska
+amerikanska brittiska danska finska franska kanadensiska nederländska norska tyska
 amerikanske brittiske
-anders andersson andreas anna bengt bernt blomberg britt carl erik eva fredrik grassman hanna hansson hedlund jansson jeppsson johanna johansson jonas karin karl karlsson klas kristina lars larsson lena lindholm lundgren magnus nilsson ola olle olsson persson pär riberdahl rickard schmidt svedberg sven wallin westerberg
+anläggning byggnad
+ansträngd pressad
 ansvaret huvudansvaret
 ansöker ansökt
 antal flertal
+antydan fingervisning
 antyder indikerar
 anvisningar instruktioner
 användandet användningen
 användaren konsumenten kunden
 användas nyttjas utnyttjas
 använde använder
+applikationer programvaror
 arbeta jobba
 arbetar jobbar
-arbetsdomstolen hfd kammarrätten regeringsrätten
-arbetsgruppens beredningens utredningens
+arbetsdomstolen hd hfd hovrätten kammarrätten regeringsrätten tingsrätten
+arbetsgivaren arbetstagaren
+arbetskrävande resurskrävande tidskrävande tidsödande
 arenor mötesplatser
 artikelns bestämmelsens
 australien belgien bulgarien danmark finland frankrike indien irland italien japan kanada kina nederländerna norge polen portugal rumänien slovakien slovenien spanien storbritannien sydafrika tjeckien tyskland ungern usa österrike
 autonomi självständighet
+avgiften avgifterna
 avgöra bedöma
 avhjälpas åtgärdas
+avhänder ikläder
 avhängig avhängigt
 avsaknad avsaknaden
 avsikten huvudsyftet syftet
-avslog avslogs
+avslog avslogs biföll
+avslutat slutfört
 avslås avvisas
 avstod avstår avstått
+avstyrker tillstyrker
+avta sjunka stiga
 avtagit tilltagit
 avtal samarbetsavtal
 bank banken bankens
 barn barnens barnens barns
 barn_och_unga barn_och_ungdomar
 bedrivas genomföras utföras
-befann befinner uppehåller
+befann befinner befunnit uppehåller
 befogat motiverat påkallat
+befriad befriade
+begripligt lättillgängligt överskådligt
 begränsar inskränker
 begränsning inskränkning begränsningar inskränkningar
+behäftad behäftade behäftat
 behållas bibehållas
 behövas krävas
 behövs fordras krävs
-bekymmer problem
-bekymrad bekymrade oroade stolta
+bekymra bry oroa underordna
+bekymrad bekymrade oroad oroade stolta
 bekämpa förebygga förhindra motverka stävja
+belgiska italienska
+belägen beläget
+benägen benägna
 benämner kallar
-beredd beredda villig villiga
+beredd beredda förhindrad förhindrade villig villiga
 bero tyda
+beräkna förutse förutspå förutsäga uppskatta överblicka
+beräkningar uppskattningar
 beslut besluten
 besluta föreskriva meddela utfärda
+bestickning mutbrott
 bestämmas fastställas
 bestämmelse regel
-bestämmelsen regeln
-bestämmelser bestämmelserna lagregler regler reglerna
+bestämmelsen föreskriften regeln
+bestämmelser bestämmelserna lagbestämmelser lagregler regler reglerna
 besvikelse frustration irritation
+betalade betalar
+betalat betalats
 betydelse relevans
 betydelsefull viktig
 betydelsefulla viktiga
@@ -64,33 +87,34 @@ betydelsen vikten
 betydelser innebörder
 betänkandet delbetänkandet
 bidra leda
-bidrag statsbidrag
-bidraget stödet
+bidrag statsbidrag bidraget stödet
 bidragets stödets
+bilar fordon
 bilaterala multilaterala
 bild helhetsbild
 bildades inrättades
 bildandet inrättandet
 billigare dyrare
-bjudit bjudits
+bjudit bjudits bjöd
 bolagen företagen
 bolagens företagens
 bolaget företaget
 bolagets företagets
 bosatt bosatta folkbokförd folkbokförda
 bosniska kurdiska
+bostad lägenhet
 bott vistats
 branscher sektorer
 breddas utvidgas utökas vidgas
 brist bristen
 brottet gärningen
-bry oroa underordna
 byggde bygger
 böcker tidskrifter
 börjat hunnit
 centern centerpartiet
 centralbanken centralbankens ecb europeiska_centralbanken ECB Europeiska_centralbanken
-citizens critical theory
+centre institute
+citaten citatet
 civila_samhället civila_samhällets civilsamhället civilsamhällets civilsamhälle
 dagsläget nuläget
 dagstidningar tidningar
@@ -101,9 +125,11 @@ decennierna åren årtiondena
 decenniernas årens
 decenniet årtiondet
 decenniets talets
+delområden insatsområden sakområden
 delta deltaga
 deltagarnas individens individernas individers patientens
-deltid heltid
+deltid halvtid heltid
+didaktiska pedagogiska
 direktivets förordningens konventionens lagens
 disponera förfoga
 djupintervjuer intervjuer
@@ -111,7 +137,6 @@ docent professor
 domstolspraxis praxis rättspraxis
 dragit drar drog
 dramatiskt drastiskt
-dww gh ghw hq rfk vrp
 dyka luckras
 dyker dök
 effekten effekterna konsekvenserna
@@ -120,10 +145,11 @@ effektiv ändamålsenlig
 efterlyser efterlyste
 eg eu
 egenskaper karakteristika
-egypten indonesien irak pakistan somalia syrien turkiet
+egypten indonesien irak jordanien libanon pakistan somalia syrien turkiet
 elev elever elevens elevernas elevers eleven eleverna
 engagerar engagerat
 engageras involveras
+enhetligt likformigt
 eniga ense
 enighet konsensus
 enskilde unge
@@ -139,9 +165,10 @@ faser skeden
 fastigheten marken
 fastställer fastställs
 fatta fattar fattas fattat fattats fattade
-femte fjärde sjätte tredje
-femårsperioden tioårsperioden
-flickor flickors
+femte fjärde sjätte tredje åttonde
+femårsperioden tioårsperioden årsperioden
+figurerna tabellerna
+flicka flickor flickors
 flickorna pojkarna
 fokuserat fokuserats
 fordrar kräver
@@ -149,6 +176,7 @@ forskarna författarna
 framstod framstår
 framtagande framtagandet utarbetandet
 fransk tysk
+franzén harry
 fredsbevarande fredsfrämjande
 fullmäktiges styrelsens
 följden konsekvensen
@@ -171,6 +199,8 @@ förenad förenat
 förening föreningen föreningens
 förenlig förenliga förenligt
 föreskriver föreskrivs stadgas
+föreskrivet stadgat
+föreslagna förslagna
 företrädare representanter
 författningar lagar
 författningarna lagarna
@@ -178,8 +208,10 @@ förhandlingar förhandlingarna
 förhåller förhöll
 förlita grunda
 förmågor kompetenser
+förnedrande omänsklig
 förordning lag
 förordningen lagen
+förorsakar orsakar
 förpliktelser åtaganden
 försiktighet restriktivitet återhållsamhet
 förskola förskoleklass
@@ -193,16 +225,18 @@ förteckning lista
 förtroendevalda förtroendevaldas
 förtrogen förtrogna
 förtydligas klargöras tydliggöras
-förutse förutsäga uppskatta överblicka
 förutsebarhet förutsägbarhet
+förutsebart förutsägbart
 förverkliga realisera
 förväntas väntas
+föräldrarna vårdnadshavarna
 förändringarna förändringen
 garantera säkerställa tillförsäkra tillse
 garanterar säkerställer
 garanteras tillförsäkras
 gemenskapen unionen
 gemenskapsnivå unionsnivå
+generaldirektör kanslichef
 genomsnitt snitt
 genomsyra prägla
 gett getts givit givits
@@ -211,9 +245,7 @@ grundpelarna hörnstenarna
 grundskolan gymnasieskolan årskurs
 grundskolor gymnasieskolor skolor
 grupp kategori
-gruppens organisationens
-göteborg halmstad lunds stockholm södertälje umeå uppsala västerås örebro
-handlade handlar
+halvåret kvartalet
 handlingsplan strategi
 handlingsplanen strategin
 hanteras lösas
@@ -221,29 +253,36 @@ helgd privatlivets
 hemsida webbplats webbsida
 hemsidan webbplatsen
 hemsidor webbplatser
-hovrätten tingsrätten
+hitintills hittills
 http www
-hustru son
 huvuddelen merparten
 huvudmän skolhuvudmän
 huvudmännen landstingen länsstyrelserna regionerna
+huvudmännens kommunernas landstingens regionernas
 huvudsak huvudsakligen
+hyr hyrs
 hämtad hämtade
+hänvisningarna hänvisningen
 höga låga
 högskolorna lärosätena
 högt lågt
 höjas höjning höjs ökas ökning
+höjda höjdes höjts
+hörselskadades synskadades
+iga övr
 inblandad involverad
+indelad indelat
 individs människas
 informera upplysa
+informerad underrättad
 införande införandet tillkomsten
 infördes tillkom
+inkorporeringen ratificeringen
 inledas påbörjas
 inleddes påbörjades
 inletts påbörjats
 innebar medförde
 inneburit medfört
-innebär medför
 innevånare invånare
 innovativa kreativa
 inriktad inriktade inriktat
@@ -258,6 +297,7 @@ juridiskt rättsligt
 justeras ändras
 jämnt jämt
 jämställa likställa
+jämställas likställas
 jämställs likställs
 kansli sekretariat
 kapitalism kapitalismen kapitalistiska
@@ -267,6 +307,7 @@ klar tydlig
 klarare tydligare
 klargörs tydliggörs
 klarlägga utröna
+klimatpolitik miljöpolitik
 knuten knutet knutna kopplad kopplade kopplat relaterad relaterade relaterat
 knyta koppla
 knytas kopplas relateras
@@ -275,7 +316,6 @@ kommunal kommunala
 kommunal_självstyrelse kommunala_självstyrelsen
 kommunalpolitik rikspolitik
 kommunens landstingets
-kommunernas landstingens regionernas
 kommunism kommunismen kommunismens
 komplex komplicerad
 komplexa komplicerade
@@ -286,15 +326,20 @@ kontakten kontakterna
 kontakter möten samtal
 kontrollen tillsynen
 konventionen stadgan
+konventionsstat medlemsstat
 koordinera samordna
 koordinering samordning
+kopplingarna kopplingen
 kortfattad översiktlig
 kostnaden kostnaderna
 kostnader merkostnader utgifter
 kr kronor
 krav kraven kravet
+kriminaliserade straffbara
 kriminalvårdens polisens
+kroatien makedonien
 kulturer religioner
+kulturmiljöer kulturvärden
 kunskapen kunskaperna
 kurser utbildningar
 kursplaner läroplaner
@@ -305,6 +350,7 @@ kännetecknande utmärkande
 kännetecknas präglas
 kännetecknats präglats
 känslan upplevelsen
+kön könen
 köpa sälja
 lades läggs
 lagreglering reglering
@@ -322,11 +368,10 @@ lokal regional lokala regionala
 lyfte lyfter lyftes lyfts
 lämnade lämnades
 lämnat lämnats
-lämpad lämpade
+lämpad lämpade lämpat
 länder länderna medlemsländer medlemsstater stater
 länsstyrelsens myndighetens myndigheternas myndigheters nämndens verkets
-lärares lärarnas
-lärarna läraren
+lärare lärares lärarnas lärarna läraren
 läroplanen läroplanerna
 läser läste
 maktrelationer maktstrukturer
@@ -334,13 +379,16 @@ manlighet maskulinitet
 manligt manliga
 massmedia media
 massmedias medias
+mb miljöbalken
 medborgare allmänhetens medborgarnas medborgarna
+meddelas utfärdas
 medel medlen
 medger tillåter
 medgivande samtycke
 medlemskap medlemskapet
 medlemsländerna medlemsstaterna
 mening uppfattning
+mervärdesskatt moms
 metod modell
 metoder modeller
 minimera minska reducera
@@ -351,14 +399,20 @@ minskande sjunkande
 minskar stiger ökar
 minskas reduceras sänkas minskning sänkning sänks
 minskat sjunkit
+minskats reducerats
 minskningen ökningen
 missnöjda nöjda
 misstro misstänksamhet skepsis
+misstänktes tilltalades
+mkr mnkr
+montenegro serbien
 motionen motionerna
 motsatta omvända
 myndighet myndigheter myndigheterna
+mynnade mynnar
 män männen männens mäns
 mänskliga_rättigheter mänskliga_rättigheterna
+målar målas
 målen målsättningarna
 möjliggöra underlätta
 möjlighet möjligheter
@@ -369,39 +423,44 @@ nazism nazismen nazismens
 nedåtgående uppåtgående
 negativ negativa negativt
 nivå nivån
+norr söder väster
 nyss ovan
 nyttja utnyttja
 nämnden styrelsen
 nämndes nämns omnämns
 näraliggande närliggande
 nås uppnås åstadkommas
+nöjer nöjt
 objektivitet opartiskhet
 oeniga oense
 oförenlig oförenliga oförenligt
+oförmögen oförmögna
 oförändrad oförändrade
 oklarhet osäkerhet otydlighet
+oklarheter tveksamheter
 oklart osäkert tveksamt
 olikheter skillnader skillnaderna variationer variationerna
 ordförande ordföranden
-organisation organisationen organisationer
+organisation organisationen organisationer organisationens
 oroande oroväckande
 orolig rädd
 pekade pekar pekat
 pekas pekats
-period tidsperiod
-pojkar pojkars
+period tidsperiod tidsrymd
+pojke pojkar pojkars
 politik politiken
 politisk politiskt politiska
 politiska_partier politiska_partierna parti partier partierna partiernas partiet partiets
 positiva positiv positivt
+poängterats understrukits
 preciseras specificeras
 presenteras redovisas
 principer principerna
-problemen problemet
 promemoria rapport slutrapport
 publicerat sammanställt
 påverkat påverkats
 rapporten skrivelsen
+ratificerat ratificerats
 realistiskt rimligt
 redaktionell språklig
 redogjorde redogör
@@ -414,39 +473,46 @@ rektorer skolledare
 rektorns rektors
 remissvar remissyttrande
 resonerade resonerar
-resurskrävande tidskrävande
 revideras uppdateras
 riksdagen riksdagens
 riksrevisionen rrv riksrevisionens
 riktar vänder
-ringde åkte
+rimma rimmar
 romernas romers
 rustad rustade
 rättssubjekt subjekt
 rättssäkerhet rättsäkerhet
+saco tco
 samarbeta samverka
 samarbetar samverkar
+samarbetat samverkat
 sambanden sambandet
 samhälle samhället samhällets
+samlingsbegrepp samlingsnamn
 sammanlagda totala
 samstämmighet samsyn
 samtalat talat
 satsar satsat
 sattes sätts
+segregationen segregeringen
 sekretess sekretessen
+separeras särskiljas
 sjunker sjönk
-skickades skickats
+skickade skickades skickat skickats
+skickas sändas
 skifta variera
 skiftande varierande
 skiftar varierade varierar
 skilde skiljde skiljer
+skjutvapen vapen
 skolan skolans
 skolornas skolors
 skrev skriver
-skyldig skyldiga
+skyldig skyldiga skyldigt
 slagit slog slår
 slogs slås
 slutgiltiga slutliga
+slöts träffades
 socialism socialismen socialismens
 speciell specifik
 sr svt
@@ -462,18 +528,21 @@ studien undersökningen
 ställde ställt ställts
 stöder stödjer
 stödja stötta understödja
-sveriges_kommuner_och_landsting SKL Sveriges_Kommuner_och_Landsting
+svenska_missionsförbundet svenska_frälsningsarmén
+sveriges_kommuner_och_landsting SKL Sveriges_Kommuner_och_Landsting svenska_kommunförbundet svenska_landstingsförbundet landstingsförbundet
 svårare svårt
 svårigheten svårigheterna
 syftade syftar
+synergieffekter synergier
 synpunkt synvinkel
 säkerställas upprätthållas
 sände sändes
 sänder sänds
+sänktes sänkts sänkta
 tagits togs
 tillgänglig tillgängliga tillgängligt
 tillhandahåller tillhandahålls
-tillsatte tillsattes
+tillkallades tillsatte tillsattes
 tillsynens verksamhetens
 tilltagande växande ökande
 tillämplig tillämpliga tillämpligt
@@ -483,10 +552,12 @@ toppmöte toppmötet
 trossamfund trossamfundet kyrka kyrkan kyrkans
 tvungen tvungna
 underbyggda underbyggt
+underskatta överdriva överskatta
 underskott överskott
 undervisningen utbildningen
 ungdomar unga ungas ungdomars ungdomarna ungdomarnas
-uppdelad uppdelat
+uppdelad uppdelade uppdelat
+uppdrog uppdrogs
 uppfattade uppfattar upplevde upplever
 uppfattas upplevas
 uppfattats upplevts
@@ -505,7 +576,9 @@ utbildning yrkesutbildning
 utbyggnad utbyggnaden
 utgick utgår
 utgjorde utgör
+utryck uttryck
 utsett utsetts
+utsläpp utsläppen
 utsträcka utvidga utöka
 utveckla vidareutveckla
 utvidgad utökad
@@ -521,9 +594,9 @@ vuxit växt växte
 väljare väljarna
 vände vänt
 värderingar värdegrund
-värmland västerbotten
 ändringarna ändringen
 åldern åldrarna
 åldersgrupper åldrar
 överlämnade överlämnades
+överskrida överstiga
 övertygad övertygade
