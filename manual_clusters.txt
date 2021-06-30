@@ -1,4 +1,4 @@
-sveriges_kommuner_och_landsting SKL Sveriges_Kommuner_och_Landsting
+sveriges_kommuner_och_landsting SKL Sveriges_Kommuner_och_Landsting svenska_kommunförbundet svenska_landstingsförbundet landstingsförbundet
 kommunal kommunala
 kommun kommunen kommuner kommunerna 
 landsting landstinget
@@ -17,8 +17,8 @@ tvungen tvungna
 lärarna läraren
 rektor rektorerna
 studenter studenterna
-flickor flickors 
-pojkar pojkars
+flicka flickor flickors
+pojke pojkar pojkars
 fördel fördelarna fördelen
 nackdelarna nackdelen nackdel
 oförenlig oförenliga oförenligt
@@ -36,7 +36,7 @@ negativ negativa negativt
 positiva positiv positivt
 riksrevisionen rrv riksrevisionens
 statskontoret statskontorets
-organisation organisationen organisationer
+organisation organisationen organisationer organisationens
 nivå nivån
 fatta fattar fattas fattat fattats fattade
 beslut besluten
@@ -65,3 +65,10 @@ väljare väljarna
 politik politiken
 lokal regional lokala regionala
 europeisk europeiska
+höjda höjdes höjts
+sänktes sänkts sänkta
+lärare lärares lärarnas lärarna läraren
+svenska_missionsförbundet svenska_frälsningsarmén
+kön könen
+bidrag statsbidrag bidraget stödet 
+

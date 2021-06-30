@@ -39,7 +39,7 @@ NR_OF_TOP_WORDS = 15
 """
 Nr of most typical document to retrieve for each topic
 """
-#NR_OF_TOP_DOCUMENTS = 490
+
 NR_OF_TOP_DOCUMENTS = 30
 
 """
@@ -83,13 +83,21 @@ Maximum occurrence in the corpus for a term to be included in the topic modellin
 """
 MAX_DOCUMENT_FREQUENCY = 0.95
 
+"""
+If the same word occurs several times in a document, should that be counted just once (binary)
+or should it be counted several times
+"""
 BINARY_TF = False
 
+"""
+Set sublinear_tf = True, which use log(tf), to lower the advantage for long documents
+"""
+SUBLINEAR_TF = False
 
 """
 Mininimum occurrence in the corpus for a term to be included in the clustering.
 """
-MIN_DOCUMENT_FREQUENCY_TO_INCLUDE_IN_CLUSTERING = 5
+MIN_DOCUMENT_FREQUENCY_TO_INCLUDE_IN_CLUSTERING = 3
 
 """
 The stop word file of user-defined stopiwords to use (Scikit learn stop words are also used)
@@ -107,7 +115,7 @@ DATA_LABEL_LIST = [{DATA_LABEL : "Focus", DIRECTORY_NAME : "fokus", LABEL_COLOR 
                    {DATA_LABEL : "No", DIRECTORY_NAME : "demokrati", LABEL_COLOR : "#ccad00"}]
 
 TOPIC_MODEL_ALGORITHM = NMF_NAME
-#TOPIC_MODEL_ALGORITHM = LDA_NAME
+
 
 """
     If an extracted term includes less than this among the documents that are extracted, this term is removed from the set of extracted terms
@@ -154,10 +162,6 @@ def corpus_specific_text_cleaning(text):
     .replace("ˆ", "ö")\
     .replace("‰", "ä")\
     .replace("Â", "å")\
-    
-    #text.replace(" ,", ",")\
-    #.replace("( ", " (")\
-    #.replace(" )", ") ")\
     
     return text
 

@@ -8,19 +8,20 @@ TITLE = "<h1>"
 SUBTITLE = "<h2>"
 PARAGRAPH = "<p>"
 WORD = "demokrati"
+WORD_FIRST_IN_SENTENCE = "Demokrati"
 
 def read_files():
     files = glob.glob('SOU-corpus-master/html/ft*')
-    output_list = []
+    output_dict = {}
     statistics_dict = {}
     nr_of_paragraphs = [0]
     for i, file in enumerate(files):
-        read_file(file, output_list, statistics_dict, nr_of_paragraphs)
+        read_file(file, output_dict, statistics_dict, nr_of_paragraphs)
         
     dir_path = WORD
     title_dict = {}
     subtitle_dict = {}
-    for nr, el in enumerate(output_list):
+    for nr, el in enumerate(output_dict.values()):
         if not os.path.exists(dir_path):
             os.makedirs(dir_path)
         file_name = os.path.join(dir_path, str(nr) + ".txt")
@@ -42,9 +43,24 @@ def read_files():
             stat_file.write(k + " & " + str(v) + "\\\\ \n")
             stat_file.write("(``" + k + "'')" + "\\\\ \n")
     print("nr_of_paragraphs", nr_of_paragraphs)
-    print("output_list", len(output_list))
-    
-def read_file(file_name, output_list, statistics_dict, nr_of_paragraphs):
+    print("output_dict", len(output_dict.keys()))
+
+def clean_line(line):
+    line = line.replace("&ouml;", "ö")
+    line = line.replace("&Ouml;", "Ö")
+    line = line.replace("&auml;", "ä")
+    line = line.replace("&Auml;", "ä")
+    line = line.replace("&aring;", "å")
+    line = line.replace("&Aring;", "Å")
+    line = line.replace("&eacute;", "é")
+    line = line.replace("&Eacute;", "É")
+    line = line.replace("&permil;", "ä")
+    line = line.replace("&circ;", "ö")
+    line = line.replace("&Acirc;", "å")
+    line = line.replace("&rdquo", "")
+    return line
+
+def read_file(file_name, output_dict, statistics_dict, nr_of_paragraphs):
     title = None
     subtitle = None
      
@@ -57,45 +73,46 @@ def read_file(file_name, output_list, statistics_dict, nr_of_paragraphs):
     
     f = open(file_name)
     for line in f.readlines():
-        line = line.replace("&ouml;", "ö")
-        line = line.replace("&Ouml;", "Ö")
-        line = line.replace("&auml;", "ä")
-        line = line.replace("&Auml;", "ä")
-        line = line.replace("&aring;", "å")
-        line = line.replace("&Aring;", "Å")
-        line = line.replace("&eacute;", "é")
-        line = line.replace("&Eacute;", "É")
-        line = line.replace("&permil;", "ä")
-        line = line.replace("&circ;", "ö")
-        line = line.replace("&Acirc;", "å")
-        line = line.replace("&rdquo", "")
-        
-        line_for_statistics = line.replace(",", " ").replace("?", " ").replace("!", " ").replace(":", " ").replace(";", " ").replace(".", " ")
-        token_for_statistics = line_for_statistics.lower().strip().split(" ")
-        for token in token_for_statistics:
-            if WORD in token:
-                if token not in statistics_dict:
-                    statistics_dict[token] = 0
-                statistics_dict[token] = statistics_dict[token] + 1
+
+        line = clean_line(line)
         
         if title_env:
-            title = line.strip()
+            if title == None or "örord" in title or "ill" in title or "SOU" in title:
+                title = clean_line(line.strip())
             title_env = False
         if subtitle_env:
-            subtitle = line.strip()
+            subtitle = clean_line(line.strip())
             subtitle_env = False
         if paragraph_env:
-            line_deleted = line.lower().replace("socialdemokrati", "").replace("sverigedemokrati", "").replace("istdemokrati", "").replace("/demokrati/", "").replace("nationaldemokrati","")
+            line_deleted = line.lower().replace("socialdemokrati", "").replace("sverigedemokrati", "").replace("istdemokrati", "").replace("nationaldemokrati","").replace("ny demokrati ","")
             if WORD in line_deleted:
-                include_line = line.replace(WORD, " -" + "<b>DEMOKRATI</b>" + "- ").strip()
-                include_line = line.replace("Demokrati", " -" + "<b>DEMOKRATI</b>" + "- ").strip()
+                include_line = line.replace(WORD, " -<b>DEMOKRATI</b>- ").strip()
+                include_line = include_line.replace(WORD_FIRST_IN_SENTENCE, " -<b>DEMOKRATI</b>- ").strip()
+
+                include_line = include_line.replace("social -<b>DEMOKRATI</b>- ", "socialdemokrati")
+                include_line = include_line.replace("Social -<b>DEMOKRATI</b>- ", "Socialdemokrati")
+                include_line = include_line.replace("ist -<b>DEMOKRATI</b>- ", "istdemokrati")
+                include_line = include_line.replace("sverige -<b>DEMOKRATI</b>- ", "sverigedemokrati")
+                include_line = include_line.replace("Sverige -<b>DEMOKRATI</b>- ", "Sverigedemokrati")
+                include_line = include_line.replace("National -<b>DEMOKRATI</b>- ", "Nationaldemokrati")
+                include_line = include_line.replace("national -<b>DEMOKRATI</b>- ", "nationaldemokrati")
+                include_line = include_line.replace("ny  -<b>DEMOKRATI</b>-  ", "ny demokrati ")
+                include_line = include_line.replace("Ny  -<b>DEMOKRATI</b>-  ", "Ny demokrati ")
                 
                 include_line = '<a href="' + url + '" target="_blank"><u>pdf</u></a> ' + include_line
-                include_line = include_line.replace("Stockholm:", "Stockholm_publishing_info")
-                #print(title)
-                #print(subtitle)
-                output_list.append({PARAGRAPH: include_line, TITLE: title, SUBTITLE: subtitle})
-                #print()
+                include_line = include_line.replace("Stockholm:", "stockholmpublishinginfo")
+                
+                if include_line not in output_dict:
+                    line_for_statistics = line.replace(",", " ").replace("?", " ").replace("!", " ").replace(":", " ").replace(";", " ").replace(".", " ")
+                    token_for_statistics = line_for_statistics.lower().strip().split(" ")
+                    for token in token_for_statistics:
+                        if WORD in token:
+                            if token not in statistics_dict:
+                                statistics_dict[token] = 0
+                            statistics_dict[token] = statistics_dict[token] + 1
+                        
+                output_dict[include_line]={PARAGRAPH: include_line, TITLE: title, SUBTITLE: subtitle}
+                        
             paragraph_env = False
         if line.strip() == TITLE:
             title_env = True
