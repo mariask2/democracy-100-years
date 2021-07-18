@@ -92,12 +92,13 @@ if __name__ == "__main__":
     vec_ca = model.wv['ca']
     print(len(vec_ca))
     
+    """
     for nr in range(4, PARTS):
         print(str((nr-1) * int(len(files)/PARTS)) + " to " + str(nr*int(len(files)/PARTS)))
         files_2 = files[(nr-1) * int(len(files)/PARTS):nr*int(len(files)/PARTS)]
-        output_list_2 = read_files(files_1)
+        output_list_2 = read_files(files_2)
         model.train(output_list_2, total_examples=len(output_list_2), epochs=model.epochs)
-    
+    """
     print("Nr of words " + str(len(model.wv.vocab)))
     model.save("SOUword2vec-created.model")
     
